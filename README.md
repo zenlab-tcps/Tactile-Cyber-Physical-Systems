@@ -2,9 +2,13 @@
 This repository contains codes and guides that are being developed in the project "[Designing Tactile Cyber Physical Systems](https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/)"
 at Zero Energy Networks Laboratory (ZENLab), Indian Institute of Science (IISc), Bengaluru, India.
 
+<p align="center">
+  <img width="auto" src="media/Overview.jpg">
+</p>
+
 # Repositories:
 The following repositories form the different modules in this project.  
-* [Cyber-physcal systems](https://github.com/nithishkgnani/CPS)  
+* [Cyber-physical systems](https://github.com/nithishkgnani/CPS)  
     Setup guide and scripts for UR3 (robotic arm from Universal Robots), Robotiq 2F85 gripper, Geomagic Touch (haptic device), SenseGlove Nova (haptic gloves)
 * [Scripts and tests on SmartNIC](https://github.com/deepakc7y/netronome-code)
 * [Tactile internet and TSN](https://github.com/deepakc7y/TSN)  
@@ -23,7 +27,7 @@ The following repositories form the different modules in this project.
   * Himanshu Verma ([@ihimu](https://github.com/ihimu)) - M.Tech. student
   * Kaushal Mhapsekar ([@kaushal1803](https://github.com/kaushal1803)) - Intern, (B.Tech. student, BITS Goa)
 * Advisors
-  * Chandramani Singh - Associate Professor, DESE, IISc
-  * T V Prabhakar - Principal Research Scientist, DESE, IISc
+  * Chandramani Singh - Associate Professor
+  * T V Prabhakar - Principal Research Scientist
 
 Unless specified, the above people are from Department of Electronic Systems Engineering (DESE), Indian Institute of Science (IISc), Bangalore, India.
