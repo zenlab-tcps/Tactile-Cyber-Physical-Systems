@@ -6,7 +6,7 @@ at Zero Energy Networks Laboratory (ZENLab), Indian Institute of Science (IISc),
   <img width="auto" src="media/Overview.jpg">
 </p>
 
-# Repositories:
+## Repositories:
 The following repositories form the different modules in this project.  
 * [Cyber-physical systems](https://github.com/nithishkgnani/CPS)  
     Setup guide and scripts for UR3 (robotic arm from Universal Robots), Robotiq 2F85 gripper, Geomagic Touch (haptic device), SenseGlove Nova (haptic gloves)
@@ -17,7 +17,7 @@ The following repositories form the different modules in this project.
 * [P4 on Netronome Agilio SmartNIC](https://github.com/soumya-rana/P4_on_netronome_agilio)  
    Collection of P4 codes running on Netronome Agilio SmartNIC.
 
-# People
+## People
 * Main contributors:
   * [Joydeep Pal](joygetsit.github.io/) ([@joygetsit](https://github.com/joygetsit)) - PhD student
   * [Nithish K Gnani](nithishkgnani.github.io/) ([@nithishkgnani](https://github.com/nithishkgnani)) - Research associate
