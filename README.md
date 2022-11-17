@@ -6,10 +6,10 @@ at Zero Energy Networks Laboratory (ZENLab), Indian Institute of Science (IISc),
 The following repositories form the different modules in this project.  
 * [Cyber-physcal systems](https://github.com/nithishkgnani/CPS)  
     Setup guide and scripts for UR3 (robotic arm from Universal Robots), Robotiq 2F85 gripper, Geomagic Touch (haptic device), SenseGlove Nova (haptic gloves)
-* [Netronome Agilio SmartNIC configuration guide](https://github.com/deepakc7y/netronome-config)
 * [Scripts and tests on SmartNIC](https://github.com/deepakc7y/netronome-code)
 * [Tactile internet and TSN](https://github.com/deepakc7y/TSN)  
    Links, documents and guides on TSN and tactile Internet
+* [Netronome Agilio SmartNIC configuration guide](https://github.com/deepakc7y/netronome-config)
 * [P4 on Netronome Agilio SmartNIC](https://github.com/soumya-rana/P4_on_netronome_agilio)  
    Collection of P4 codes running on Netronome Agilio SmartNIC.
 
