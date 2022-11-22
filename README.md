@@ -14,6 +14,7 @@ The following repositories form the different modules in this project.
 * [Tactile internet and TSN](https://github.com/deepakc7y/TSN)  
    Links, documents and guides on TSN and tactile Internet
 * [Netronome Agilio SmartNIC configuration guide](https://github.com/deepakc7y/netronome-config)
+* [P4-NetFPGA-SUME Hardware guide](https://github.com/nithishkgnani/P4_Projects/tree/main/P4-NetFPGA)  
 * [P4 on Netronome Agilio SmartNIC](https://github.com/soumya-rana/P4_on_netronome_agilio)  
    Collection of P4 codes running on Netronome Agilio SmartNIC.
 
